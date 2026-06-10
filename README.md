@@ -1,0 +1,2 @@
+# Miniproject.c
+mini project
